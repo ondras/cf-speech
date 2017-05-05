@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "head": [
+      {
+        "type": "style",
+        "src": "speech.css"
+      },
+      {
+        "type": "script",
+        "src": "speech.js"
+      }
+    ]
+  }
+}
